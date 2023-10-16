@@ -11,6 +11,7 @@ export default function Dashboard() {
   const [error, setError] = useState(null)
   const fetchOrders = async () => {
     const res = await fetch("/api/get-orders")
+    console.log(res)
     const data = await res.json()
     return data
   }
