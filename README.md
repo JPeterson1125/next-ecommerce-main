@@ -1,38 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# FANTASY FOOTBALL 101 - STORE
 
-## Getting Started
+#### Video Demo: https://www.youtube.com/watch?v=2Ql133yvZxU
 
-First, run the development server:
+#### Description:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Welcome to Fantasy Football 101!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Your one-stop shop for mastering fantasy football, regardless of your skill level. Our three comprehensive courses cater to beginners, intermediate players, and seasoned veterans, ensuring you have the tools and knowledge to dominate your fantasy league.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Features:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Three meticulously crafted courses:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Beginner Course: Designed for newcomers to the world of fantasy football, this course covers the fundamentals, from drafting a winning team to navigating the intricacies of scoring and waivers.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Advanced Course: Elevate your fantasy football prowess with this intermediate-level course. Delve into advanced strategies, player evaluations, and insights into creating a championship-caliber roster.
 
-## Learn More
+Expert Course: Become a fantasy football expert with this in-depth course tailored for experienced players. Uncover expert-level tactics, statistical analysis, and the secrets to consistently outperforming your competition.
 
-To learn more about Next.js, take a look at the following resources:
+Seamless user experience: Our intuitive platform makes learning a breeze, allowing you to focus on absorbing the knowledge and strategies presented in each course.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Mobile-friendly design: Access your courses anytime, anywhere, with our mobile-optimized website.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Technologies:
 
-## Deploy on Vercel
+Next.js: A powerful React framework for building high-performance, SEO-friendly websites.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Stripe: A secure and reliable payment gateway for seamless checkout and course purchases.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Get Started:
+
+Login with oAuth: Sign up for a free account to explore our courses and preview the content.
+
+Choose your course: Select the course that matches your skill level and start learning.
+
+Unlock your fantasy football potential: Apply the knowledge and strategies from our courses to dominate your fantasy league and become a fantasy football champion!
